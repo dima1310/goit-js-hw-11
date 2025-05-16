@@ -6,7 +6,7 @@ import {
   clearGallery,
   showLoader,
   hideLoader,
-} from '../src/js/render-fuctions.js';
+} from '../src/js/render-functions.js';
 
 const form = document.querySelector('.form');
 
